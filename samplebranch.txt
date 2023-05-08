@@ -1,3 +1,6 @@
 replicating MergeConflict
 
 This is my content for checking out sample branch AKA Branches in GIT.
+
+
+hello
