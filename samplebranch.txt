@@ -1,1 +1,3 @@
+trying to replicate Merge Conflict.
+
 This is my content for checking out sample branch AKA Branches in GIT.
